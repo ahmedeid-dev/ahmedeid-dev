@@ -40,8 +40,9 @@
 
 <h3> 💬 Connect with via ... </h3>
 <p align="left">
+<a href="mailto: ahmedeid.dev@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Gmail"></a>  
+  <br/>
 <a href="https://www.linkedin.com/in/ahmedeid-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto: ahmedeid.dev@outlook.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>  
 <a href="https://wa.me/+201064766798" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat" alt="Gmail"></a>  
 </p>
 
